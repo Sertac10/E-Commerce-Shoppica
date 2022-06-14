@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppicaAPI", "ShoppicaAPI\ShoppicaAPI.csproj", "{29B83D06-6E21-4D03-825E-4330EFD9362A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppicaMVC", "ShoppicaMVC\ShoppicaMVC.csproj", "{6AA827EF-0545-494D-A5F3-1FD8C6541029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29B83D06-6E21-4D03-825E-4330EFD9362A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B83D06-6E21-4D03-825E-4330EFD9362A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B83D06-6E21-4D03-825E-4330EFD9362A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B83D06-6E21-4D03-825E-4330EFD9362A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AA827EF-0545-494D-A5F3-1FD8C6541029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA827EF-0545-494D-A5F3-1FD8C6541029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA827EF-0545-494D-A5F3-1FD8C6541029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA827EF-0545-494D-A5F3-1FD8C6541029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87DE984D-BB53-42E9-9594-9F4B994C953F}
+	EndGlobalSection
+EndGlobal

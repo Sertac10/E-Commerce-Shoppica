@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+NbEzxbl9VA9TJ7OlqVscPV+0DWvf+zOCS5sbqzk6HXH8G77k47XSb34k6fY2fq+1kaNTp1Gve9opikGgLrC+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\snaim\\Desktop\\Shoppica\\ShoppicaMVC\\ShoppicaMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\snaim\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
